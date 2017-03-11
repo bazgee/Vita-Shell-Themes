@@ -1,0 +1,64 @@
+# VitaShell colors file by BazGee
+
+# Shell colors
+BACKGROUND_COLOR             = 0x00000000
+TITLE_COLOR                  = 0xFFEEEEEE
+PATH_COLOR                   = 0xFFEEEEEE
+DATE_TIME_COLOR              = 0xFFEEEEEE
+
+# Settings colors
+SETTINGS_MENU_COLOR          = 0xD01B1B1B
+SETTINGS_MENU_FOCUS_COLOR    = 0xF0808080
+SETTINGS_MENU_TITLE_COLOR    = 0xFFDDC067
+SETTINGS_MENU_ITEM_COLOR     = 0xFFEEEEEE
+SETTINGS_MENU_OPTION_COLOR   = 0xFFDDC067
+
+# File browser colors
+FOCUS_COLOR                  = 0xFFDDC067
+FILE_COLOR                   = 0xFFEEEEEE
+SFO_COLOR                    = 0xFFEEEEEE
+TXT_COLOR                    = 0xFFEEEEEE
+FOLDER_COLOR                 = 0xFFEEEEEE
+IMAGE_COLOR                  = 0xFFEEEEEE
+ARCHIVE_COLOR                = 0xFFEEEEEE
+SCROLL_BAR_COLOR             = 0xA0000000
+SCROLL_BAR_BG_COLOR          = 0xA0000000
+MARKED_COLOR                 = 0x50808080
+
+# Context menu colors
+CONTEXT_MENU_TEXT_COLOR      = 0xFFEEEEEE
+CONTEXT_MENU_FOCUS_COLOR     = 0xFFDDC067
+CONTEXT_MENU_COLOR           = 0xFFDDC067
+CONTEXT_MENU_MORE_COLOR      = 0xFFEEEEEE
+INVISIBLE_COLOR              = 0xFF6F6F6F
+
+# Dialog colors
+DIALOG_COLOR                 = 0xFFEEEEEE
+DIALOG_BG_COLOR              = 0xFF000000
+PROGRESS_BAR_COLOR           = 0xFF8BCB00
+PROGRESS_BAR_BG_COLOR        = 0xA0262626
+
+# Hex editor colors
+HEX_COLOR                    = 0xFFEEEEEE
+HEX_OFFSET_COLOR             = 0xFFB5AC98
+HEX_NIBBLE_COLOR             = 0xFF80118D
+
+# Text editor colors
+TEXT_COLOR                   = 0xFFEEEEEE
+TEXT_FOCUS_COLOR             = 0xFFDDC067
+TEXT_LINE_NUMBER_COLOR       = 0xFFEEEEEE
+TEXT_LINE_NUMBER_COLOR_FOCUS = 0xFFDDC067
+TEXT_HIGHLIGHT_COLOR         = 0xFF3D3D3D
+
+# Photo viewer colors
+PHOTO_ZOOM_COLOR             = 0xFFEEEEEE
+
+# Audio player colors
+AUDIO_INFO_ASSIGN            = 0xFFEEEEEE
+AUDIO_INFO                   = 0xFFEEEEEE
+AUDIO_SPEED                  = 0xFFEEEEEE
+AUDIO_TIME_CURRENT           = 0xFFEEEEEE
+AUDIO_TIME_SLASH             = 0xFFEEEEEE
+AUDIO_TIME_TOTAL             = 0xFFEEEEEE
+AUDIO_TIME_BAR               = 0xFFEEEEEE
+AUDIO_TIME_BAR_BG            = 0xA0EEEEEE
