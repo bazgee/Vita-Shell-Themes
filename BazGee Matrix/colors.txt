@@ -1,0 +1,59 @@
+# VitaShell colors file by BazGee
+
+# Shell colors
+BACKGROUND_COLOR             = 0x00000000
+TITLE_COLOR                  = 0xFF0ce600
+PATH_COLOR                   = 0xFF0ce600
+DATE_TIME_COLOR              = 0xFF0ce600
+
+# Settings colors
+SETTINGS_MENU_COLOR          = 0xD01B1B1B
+SETTINGS_MENU_FOCUS_COLOR    = 0xF0808080
+SETTINGS_MENU_TITLE_COLOR    = 0xFF0ce600
+SETTINGS_MENU_ITEM_COLOR     = 0xFFEEEEEE
+SETTINGS_MENU_OPTION_COLOR   = 0xFF0ce600
+
+# File browser colors
+FOCUS_COLOR                  = 0xFFEEEEEE
+FILE_COLOR                   = 0xFF0ce600
+SFO_COLOR                    = 0xFF0ce600
+TXT_COLOR                    = 0xFF0ce600
+FOLDER_COLOR                 = 0xFF0ce600
+IMAGE_COLOR                  = 0xFF0ce600
+ARCHIVE_COLOR                = 0xFF0ce600
+SCROLL_BAR_COLOR             = 0xFF0ce600
+SCROLL_BAR_BG_COLOR          = 0xA0000000
+MARKED_COLOR                 = 0x50808080
+
+# Context menu colors
+CONTEXT_MENU_TEXT_COLOR      = 0xFF0ce600
+CONTEXT_MENU_FOCUS_COLOR     = 0xFFEEEEEE
+CONTEXT_MENU_COLOR           = 0xFF0ce600
+CONTEXT_MENU_MORE_COLOR      = 0xFFEEEEEE
+INVISIBLE_COLOR              = 0xFF6F6F6F
+
+# Dialog colors
+DIALOG_COLOR                 = 0xFF0ce600
+DIALOG_BG_COLOR              = 0xFF000000
+PROGRESS_BAR_COLOR           = 0xFF8BCB00
+PROGRESS_BAR_BG_COLOR        = 0xA0262626
+
+# Text editor colors
+TEXT_COLOR                   = 0xFF0ce600
+TEXT_FOCUS_COLOR             = 0xFF0ce600
+TEXT_LINE_NUMBER_COLOR       = 0xFFEEEEEE
+TEXT_LINE_NUMBER_COLOR_FOCUS = 0xFF0ce600
+TEXT_HIGHLIGHT_COLOR         = 0xFF3D3D3D
+
+# Photo viewer colors
+PHOTO_ZOOM_COLOR             = 0xFFEEEEEE
+
+# Audio player colors
+AUDIO_INFO_ASSIGN            = 0xFFEEEEEE
+AUDIO_INFO                   = 0xFFEEEEEE
+AUDIO_SPEED                  = 0xFFEEEEEE
+AUDIO_TIME_CURRENT           = 0xFFEEEEEE
+AUDIO_TIME_SLASH             = 0xFFEEEEEE
+AUDIO_TIME_TOTAL             = 0xFFEEEEEE
+AUDIO_TIME_BAR               = 0xFFEEEEEE
+AUDIO_TIME_BAR_BG            = 0xA0EEEEEE
